@@ -1,0 +1,6 @@
+这篇文章很好
+https://zhuanlan.zhihu.com/p/24681145
+
+如何使用 clone 下来的仓库
+1. git clone 仓库到本地
+2. 直接用 Unity 打开，Unity 会自动生成其他文件

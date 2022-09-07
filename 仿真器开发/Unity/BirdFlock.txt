@@ -1,3 +1,5 @@
+注意！该项目使用 Unity 老版本，不建议学习
+
 BirdFlock 是一个 GitHub 项目，用 Unity 实现了鸟群算法的集群模拟
 
 链接为：https://github.com/black-square/BirdFlock.git
