@@ -1,3 +1,5 @@
+（以下都是 Unity 项目）
+
 https://github.com/hecomi/UnityECSBoidsSimulation
 * Boid，没有简介和演示
 
@@ -21,3 +23,13 @@ https://github.com/2016UAVClass/Simulation-Unity3D
 
 https://github.com/DarraghMac97/Real-time-Traffic-Simulation-with-3D-Visualisation
 * 交通，较复杂
+
+https://github.com/ando-shah/swarm
+* 基于 SpatialOS 的集群项目，复杂
+
+https://github.com/nccvector/Swarm-Flocking-Unity3D
+* 简单实现，类似我们第一次的演示
+
+https://github.com/Grushenko/Swarm
+* 简单实现，有限空间内集群模拟，带简单参数控制
+* 就看这个不错！
