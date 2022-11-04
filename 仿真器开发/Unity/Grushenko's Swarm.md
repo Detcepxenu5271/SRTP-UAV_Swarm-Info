@@ -50,7 +50,7 @@ Assets
 		+ StepButton：FixedSimulationStep()
 		+ StartButton：StartSimulation()
 		+ StopButton：StopSimulation()
-	- On Value Changed 部分也在 Spawner 脚本中，还有用于修改文本内容的在 Settable Text 中
+	- On Value Changed 部分也在 Spawner 脚本中，还有用于修改文本内容的在 Settable Text 中（注意挂载的首先是一个游戏物体，然后下拉列表选择游戏物体的组件，最后是组件中的方法）
 		+ SimulationSpeedSlider：SetSimulationSpeed()
 		+ RadiusSpeedSlider：SetRadiusSpeed()
 		+ BirdsNumberSpeedSlider：SetNumberOfParticle()
